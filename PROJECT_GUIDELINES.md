@@ -916,16 +916,3 @@ _Why:_
   > Screen readers have no way of translating an image into words that gets read to the user, even if the image only consists of text. As a result, it's necessary for images to have short, descriptive alt text so screen reader users clearly understand the image's contents and purpose.
 
 More accessibility rules can be found [here](https://dequeuniversity.com/rules/axe).
-
-
-
-Sources:
-[RisingStack Engineering](https://blog.risingstack.com/),
-[Mozilla Developer Network](https://developer.mozilla.org/),
-[Heroku Dev Center](https://devcenter.heroku.com),
-[Airbnb/javascript](https://github.com/airbnb/javascript),
-[Atlassian Git tutorials](https://www.atlassian.com/git/tutorials),
-[Apigee](https://apigee.com/about/blog),
-[Wishtack](https://blog.wishtack.com)
-
-Icons by [icons8](https://icons8.com/)
