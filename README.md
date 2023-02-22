@@ -33,9 +33,9 @@
 #### 🟡⚙️ [BackEnd](https://github.com/CodeCooperation/CC-Guidelines/blob/main/BACKEND_TESTING.md)
 #### 🟡👨‍ [FrontEnd](https://github.com/CodeCooperation/CC-Guidelines/blob/main/FRONTEND_TESTING.md)
 ----------
-## 🙅 Forbidden Rules
-### 🔴💩 [Shitcode](https://github.com/CodeCooperation/CC-Guidelines/blob/main/SHITCODE.md)
+### 🙅 Forbidden Rules
+#### 🔴💩 [Shitcode](https://github.com/CodeCooperation/CC-Guidelines/blob/main/SHITCODE.md)
 
-## 🌲 Elevate
-### 🟢❓ [FrontEnd Interview Questions](https://github.com/CodeCooperation/CC-Guidelines/blob/main/FRONTEND-questions.md)
-### 🟢🚀 [How to become a super-dev](https://github.com/CodeCooperation/CC-Guidelines/blob/main/SUPERDEVELOPER.md)
+### 🌲 Elevate
+#### 🟢❓ [FrontEnd Interview Questions](https://github.com/CodeCooperation/CC-Guidelines/blob/main/FRONTEND-questions.md)
+#### 🟢🚀 [How to become a super-dev](https://github.com/CodeCooperation/CC-Guidelines/blob/main/SUPERDEVELOPER.md)
