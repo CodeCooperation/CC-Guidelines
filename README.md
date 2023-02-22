@@ -1,5 +1,9 @@
 # Code Cooperation Guidelines and Best Practices
 
+🔴 MUST READ
+🟡 SHOULD FOLLOW
+🟢 NICE FOR YOUR KNOWLEDGE
+
 # 🔴🏭 [Global Project Guidelines](https://github.com/CodeCooperation/CC-Guidelines/blob/main/PROJECT_GUIDELINES.md)
 ----------
 # 🗾 Structure Guidelines
