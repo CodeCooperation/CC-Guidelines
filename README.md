@@ -4,6 +4,8 @@
 🟡 SHOULD FOLLOW
 🟢 NICE FOR YOUR KNOWLEDGE
 
+### ❓How to:
+#### ❓[Develop and make a pull request](https://github.com/CodeCooperation/CC-Guidelines/blob/main/Pull%20request%20submission%20and%20code%20review%20guidelines.md)
 
 ### 🗾 Structure Guidelines
 #### 🔴🏭 [Global Project Guidelines](https://github.com/CodeCooperation/CC-Guidelines/blob/main/PROJECT_GUIDELINES.md)
